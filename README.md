@@ -12,4 +12,6 @@ As of November 2022, Chrome was the most used web browser, with 66% of the marke
  How to download
 You can download Chrome by navigating to google.com/chrome and selecting "Download Chrome". 
  You can also use Chrome extensions to help with writing, such as: 
+this is a picture of chrome.👇
+![Google_Chrome_icon_(2011)](https://github.com/user-attachments/assets/6226c742-e25c-48d3-ae19-1220fd37c5dc)
 
